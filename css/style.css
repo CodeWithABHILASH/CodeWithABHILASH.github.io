@@ -62,7 +62,7 @@ html {
     height: 40px;
     background-color: black;
     margin: auto;
-    padding:10px 35px;
+    padding:9px 35px;
   }
   
   .navbar .inner-width {
@@ -266,6 +266,7 @@ justify-content: space-between;
     transition: 0.2s linear;
   }
   
+
   .sm :hover {
     background-color: floralwhite;
     color: #48dbfb;
@@ -300,7 +301,7 @@ justify-content: space-between;
     margin: 20px 0;
     padding: 40px 20px;
     color: #eee;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReExJigVklDrO1rne0i3YG6eaWCj_PKYQKyg&usqp=CAU);
+    background-image: url(https://i.pinimg.com/236x/d7/7b/50/d77b503c4502006bc164d49a3e651ac1.jpg);
     background-size: cover;
     transition: 0.3s linear;
     font-weight: 500;
@@ -319,7 +320,7 @@ justify-content: space-between;
     padding: 40px 20px;
     color:#eee;
     transition: 0.3s linear;
-    background-image: url(https://i.pinimg.com/236x/ba/34/33/ba343324b5fbeb9283039e5d98a619e3.jpg);
+    background-image: url(https://i.pinimg.com/236x/f8/63/a2/f863a2f90985e69acd27bceeb54df946.jpg);
     background-size: cover;
     font-weight: 500;
   }
@@ -337,7 +338,7 @@ justify-content: space-between;
     margin: 20px 0;
     padding: 40px 20px;
     color: #eee;
-    background-image: url(https://i.pinimg.com/564x/ba/82/11/ba82114886d570bca68e0978296a70d6.jpg);
+    background-image: url(https://i.pinimg.com/236x/d7/7b/50/d77b503c4502006bc164d49a3e651ac1.jpg);
     background-size: cover;
     transition: 0.3s linear;
   
@@ -524,6 +525,8 @@ justify-content: space-between;
     outline: none;
     display: none;
   }
+
+
   
   @media screen and (max-width: 980px) {
     .menu-toggler {
@@ -617,7 +620,6 @@ justify-content: space-between;
     .serviceMid {
       width: calc(80% - 10px);
       align-items: center;
-      background-image: url(https://i.pinimg.com/236x/a9/31/62/a931626d5bd0d171cfc8ce9cac0652c7.jpg);
       background-size: cover;
       margin: 30px 30px;
       padding: 35px 35px;
@@ -659,4 +661,100 @@ justify-content: space-between;
       visibility: hidden;
     }
   }
+  
+  @media screen and (min-width:550px) and (max-width:600px) {
+    .contact-info::before {
+      width: 2px;
+      content: "";
+      position: absolute;
+      height: 250px;
+      margin-top: 20px;
+      background-color: #ffa588;
+      border-radius: 3px;
+      left: calc(65% - 200px);
+    }
+    
+    
+  }
+  @media screen and (min-width:600px) and (max-width:980px) {
+    .contact-info::before {
+      width: 2px;
+      content: "";
+      position: absolute;
+      height: 250px;
+      margin-top: 20px;
+      background-color: #ffa588;
+      border-radius: 3px;
+      left: calc(59% - 200px);
+    }
+  
+    
+  }
+
+  @media screen and (min-width:981px) and (max-width:1200px) {
+    .contact-info::before {
+      width: 2px;
+      content: "";
+      position: absolute;
+      height: 250px;
+      margin-top: 20px;
+      background-color: #ffa588;
+      border-radius: 3px;
+      left: calc(75% - 200px);
+    }
+    
+  }
+  @media screen and (min-width:600px) and (max-width:980px) {
+    .service-left p {
+      background-color: linear-gradient();
+      color: rgb(255 ,165 ,136);
+      font-weight: 400;
+      position: absolute;
+      left: calc(55% - 100px);
+      height:150px;
+      width:125px;
+      size: 35px;
+    }
+    .serviceMid p {
+      background-color: linear-gradient();
+      color: rgb(255 ,165 ,136);
+      font-weight: 400;
+      position: absolute;
+      left: calc(55% - 100px);
+      height:150px;
+      width:125px;
+      size: 35px;
+    }
+    
+    .service-right p {
+      background-color: linear-gradient();
+      color: rgb(255 ,165 ,136);
+      font-weight: 400;
+      position: absolute;
+      left: calc(55% - 100px);
+      height:150px;
+      width:125px;
+      size: 35px;
+    }
+    
+  }
+
+  @media screen and (min-width:981px) and (max-width:1200px) {
+    .contact-info::before {
+      width: 2px;
+      content: "";
+      position: absolute;
+      height: 250px;
+      margin-top: 20px;
+      background-color: #ffa588;
+      border-radius: 3px;
+      left: calc(75% - 200px);
+    }
+    
+  }
+
+  
+  
+
+ 
   
