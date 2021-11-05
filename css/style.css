@@ -27,7 +27,7 @@ html {
   }
   
   ::-webkit-scrollbar {
-    width: 15px;
+    width: 7px;
     background-color: #eee   /* #292b2e */
   }
   
@@ -58,7 +58,7 @@ html {
     padding: 0 40px;
   }
   .footer-inner-width {
-    max-width: 1600px;
+    max-width: 2560px;
     height: 40px;
     background-color: black;
     margin: auto;
@@ -552,7 +552,7 @@ justify-content: space-between;
     }
   
     .sticky .navbar-menu {
-      background-color: #ffa588;
+      background-color: rgba(0, 0, 0, 0.653);
     }
   
     .navbar-menu.active {
@@ -704,11 +704,23 @@ justify-content: space-between;
     }
     
   }
+  @media screen and (min-width:1800px) and (max-width:2561px) {
+    .contact-info::before {
+      width: 2px;
+      content: "";
+      position: absolute;
+      height: 250px;
+      margin-top: 20px;
+      background-color: #ffa588;
+      border-radius: 3px;
+      left: calc(57% - 75px);
+    }
+    
+  }
   @media screen and (min-width:600px) and (max-width:980px) {
     .service-left p {
       background-color: linear-gradient();
-      background-image: url(https://i.pinimg.com/236x/d7/7b/50/d77b503c4502006bc164d49a3e651ac1.jpg);
-      background-size: cover;
+     
       color: rgb(255 ,165 ,136);
       font-weight: 400;
       position: absolute;
@@ -719,8 +731,7 @@ justify-content: space-between;
     }
     .serviceMid p {
       background-color: linear-gradient();
-      background-image: url(https://i.pinimg.com/236x/f8/63/a2/f863a2f90985e69acd27bceeb54df946.jpg);
-      background-size: cover;
+    
       color: rgb(255 ,165 ,136);
       font-weight: 400;
       position: absolute;
@@ -732,8 +743,7 @@ justify-content: space-between;
     
     .service-right p {
       background-color: linear-gradient();
-      background-image: url(https://i.pinimg.com/236x/d7/7b/50/d77b503c4502006bc164d49a3e651ac1.jpg);
-      background-size: cover;
+    
       color: rgb(255 ,165 ,136);
       font-weight: 400;
       position: absolute;
@@ -741,6 +751,14 @@ justify-content: space-between;
       height:150px;
       width:125px;
       size: 35px;
+    }
+    
+  }
+  @media screen and (min-width:600px) and (max-width:980px) {
+    .hackerImage {
+      float: right;
+      width: 0%;
+      height: 0%;
     }
     
   }
