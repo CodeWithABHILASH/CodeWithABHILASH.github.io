@@ -707,6 +707,8 @@ justify-content: space-between;
   @media screen and (min-width:600px) and (max-width:980px) {
     .service-left p {
       background-color: linear-gradient();
+      background-image: url(https://i.pinimg.com/236x/d7/7b/50/d77b503c4502006bc164d49a3e651ac1.jpg);
+      background-size: cover;
       color: rgb(255 ,165 ,136);
       font-weight: 400;
       position: absolute;
@@ -717,6 +719,8 @@ justify-content: space-between;
     }
     .serviceMid p {
       background-color: linear-gradient();
+      background-image: url(https://i.pinimg.com/236x/f8/63/a2/f863a2f90985e69acd27bceeb54df946.jpg);
+      background-size: cover;
       color: rgb(255 ,165 ,136);
       font-weight: 400;
       position: absolute;
@@ -728,6 +732,8 @@ justify-content: space-between;
     
     .service-right p {
       background-color: linear-gradient();
+      background-image: url(https://i.pinimg.com/236x/d7/7b/50/d77b503c4502006bc164d49a3e651ac1.jpg);
+      background-size: cover;
       color: rgb(255 ,165 ,136);
       font-weight: 400;
       position: absolute;
