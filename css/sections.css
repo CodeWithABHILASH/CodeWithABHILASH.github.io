@@ -1,0 +1,272 @@
+
+  section {
+    background-color: floralwhite;
+   background:  url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL10p97WiFenOmWypDT3lcApa3IQXRXtMv4Q&usqp=CAU);
+    /* https://i.pinimg.com/236x/5b/d8/37/5bd83716acfaf641f43576a9cef7d818.jpg */
+   /* https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/686551/cover-REDESIGN-Developing-Mobile-Web-Applications--When-Why-and-How-Luke_Newsletter-514abca502cd4974c55460270a9561ae-345ee9582aae38573ed550295250c72c.png */
+   /* https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSp3O6Ji74Mi6r0D7BqvxSU0Tme1M0x8FWNg&usqp=CAU */
+   /* data:image/jpeg;base64,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 */
+   background-size: cover;
+     /* background: #202124; */
+    /* padding-bottom: 50px; */
+  }
+  
+  .section-title {
+    font-size: 56px;
+    font-weight: 600;
+    background-color:linear-gradient(); 
+    color: floralwhite; 
+     /* margin-top: 50px; */
+  }
+  
+  .about {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .about-image {
+    height: 600px;
+  }
+  
+  .about-text {
+    color: #ffa588;
+    margin-top: 50px;
+    text-align: justify;
+  }
+  
+  .about-pic {
+    width: 180px;
+    border-radius: 50%;
+    margin-right: 100px;
+  }
+  .icons {
+    display: flex;
+  }
+  .sm {
+    margin-top: 10px;
+  
+    padding-right: 20px;
+    height: 20px;
+    transition: 0.2s linear;
+  }
+  
+
+  .sm :hover {
+    background-color: floralwhite;
+    color: #48dbfb;
+  }
+  
+  .services {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  
+  .titleSection::after {
+    width: 300px;
+    content: "";
+    position: absolute;
+    height: 2px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    background-color: floralwhite;
+    /* background-color: #ffa588; */
+    border-radius: 3px;
+    left: calc(50% - 150px);
+  }
+  
+  .service-left {
+    width: calc(30% - 10px);
+    text-align: center;
+    height: 300px;
+    border: 2px solid #eee;
+    border-radius: 9px;
+    margin: 20px 0;
+    padding: 40px 20px;
+    color: #eee;
+    background-image: url(https://i.pinimg.com/236x/d7/7b/50/d77b503c4502006bc164d49a3e651ac1.jpg);
+    background-size: cover;
+    transition: 0.3s linear;
+    font-weight: 500;
+  }
+  .service-left::before {
+    
+    background-color: rgba(0, 0, 0, 1);
+  }
+  
+  .serviceMid {
+    width: calc(40% - 50px);
+    height: 350px;
+    text-align: center;
+    border: 2px solid #eee;
+    border-radius: 9px;
+    padding: 40px 20px;
+    color:#eee;
+    transition: 0.3s linear;
+    background-image: url(https://i.pinimg.com/236x/f8/63/a2/f863a2f90985e69acd27bceeb54df946.jpg);
+    background-size: cover;
+    font-weight: 500;
+  }
+  .serviceMid::before {
+    
+    background-color: rgba(0, 0, 0, 1);
+  }
+
+  .service-right {
+    width: calc(30% - 10px);
+    text-align: center;
+    height: 300px;
+    border: 2px solid #eee;
+    border-radius: 9px;
+    margin: 20px 0;
+    padding: 40px 20px;
+    color: #eee;
+    background-image: url(https://i.pinimg.com/236x/d7/7b/50/d77b503c4502006bc164d49a3e651ac1.jpg);
+    background-size: cover;
+    transition: 0.3s linear;
+  
+  }
+  .service-right::before {
+    
+    background-color: rgba(0, 0, 0, 1);
+  }
+  
+  .service-left img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 40px;
+   
+  }
+  .service-right img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 40px;
+  }
+  
+  
+  .serviceMid img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 40px;
+  }
+  .service-left h4 {
+    background-color: linear-gradient();
+    color:#eee;
+    font-weight: 800;
+    size: 35px;
+  }
+  .service-left p {
+    background-color: linear-gradient();
+    color:rgb(255 ,165 ,136);
+    font-weight: 550;
+    size: 35px;
+  }
+  .service-right h4 {
+    background-color: linear-gradient();
+    color: #eee;
+    font-weight: 800;
+    size: 35px;
+  }
+  .service-right p {
+    background-color: linear-gradient();
+    color: rgb(255 ,165 ,136);
+    font-weight: 550;
+    size: 35px;
+  }
+  
+  .serviceMid h4 {
+    background-color: linear-gradient();
+    color: #eee;
+    font-weight: 800;
+   
+    size: 35px;
+  }
+  .serviceMid p {
+    background-color: linear-gradient();
+    color: rgb(255 ,165 ,136);
+    font-weight: 550;
+   
+    size: 35px;
+  }
+  .contact {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  
+  .contact-form {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 90px;
+  }
+  
+  .contact-form input,
+  .contact-form textarea {
+    width: 300px;
+    height: 50px;
+    margin: 10px 0;
+    background: none;
+    border: 2px solid #eee;
+    outline: none;
+    padding: 20px;
+    border-radius: 5px;
+    color: #fff;
+    margin-bottom: 10px;
+  }
+  
+  .message {
+    height: 300px;
+    resize: vertical;
+    scroll-behavior: smooth;
+  }
+  
+  .contact-form .btn {
+    width: 300px;
+    border: 2px solid #eee;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: auto;
+    cursor: pointer;
+    background-color: #ffa588;
+    border-radius: 8px;
+    color: #202124;
+    font-size: 20px;
+    transition: 0.2s linear;
+  }
+  
+  .contact-info::before {
+    width: 2px;
+    content: "";
+    position: absolute;
+    height: 250px;
+    margin-top: 20px;
+    background-color: #ffa588;
+    border-radius: 3px;
+    left: calc(67% - 200px);
+  }
+  
+  .contact-info .item {
+    font-family: "Poppins";
+    letter-spacing: 2px;
+    border-radius: 50px;
+    color: #fff;
+    text-align: left;
+    margin-top: 20px;
+    transition: 0.3s linear;
+  }
+  
+  .contact-head {
+    padding-bottom: 10px;
+    color: #ffa588;
+  }
+  
+  .contact-icon img {
+    width: 25px;
+    height: 25px;
+  }
+ 

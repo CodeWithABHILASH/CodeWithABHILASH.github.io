@@ -1,0 +1,32 @@
+ 
+  footer {
+    background: floralwhite;
+    color:#ffa588 ;
+    padding: 0 ;
+    background:  url(https://i.pinimg.com/236x/5b/d8/37/5bd83716acfaf641f43576a9cef7d818.jpg);
+    background-size: cover;
+    text-align: center;
+    /* display:flex;
+    align-items: center; */
+  }
+  .footer-inner-width {
+    max-width: 2560px;
+    height: 40px;
+    background-color: black;
+    margin: auto;
+    padding:9px 35px;
+  }
+  .copyright {
+   
+    text-align: center;
+    font-size: 15px;
+    color:floralwhite
+    /* margin-bottom: 0; */
+  }
+  
+  .copyright a {
+    font-size: 16px;
+    color: #48dbfb;
+    font-weight: 500;
+  }
+  
