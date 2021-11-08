@@ -60,6 +60,7 @@
       width: 100%;
       font-size: 30px;
       text-align: center;
+      color:#ffa588;
     }
   
     .about {
@@ -75,6 +76,7 @@
     .about-text {
       flex: 100%;
       text-align: justify;
+      color:#eee;
     }
   
     .services {
